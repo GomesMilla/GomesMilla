@@ -1,7 +1,7 @@
 <img src="GitHub.png">
 
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="15px">
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="5px">
 
 My name is ✨ _Camila Adriana Gomes de Jesus_ ✨ and I am a graduate student in Computer Science. I'm Brazilian, I live in Três Corações and currently work at UninCor as a technology assistant. Currently, I program for web technologies like Django, JavaScript. But recently I'm studying mobile devices with React Native
 
