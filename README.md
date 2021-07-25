@@ -20,13 +20,25 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats
 
 
-<a href="https://github.com/GomesMilla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMilla&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/GomesMilla/GomesMilla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GomesMilla&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/GomesMilla/GomesMilla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMilla&show_icons=true&theme=radical&layout=compact&langs_count=8&langs_count=5" />
 </a>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GomesMilla)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMilla)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+
+
+
+
+
+
+
+
+
+
+
+<!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME) -->
 
