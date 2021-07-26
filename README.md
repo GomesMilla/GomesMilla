@@ -5,21 +5,15 @@
 
 My name is ✨ _Camila Adriana Gomes de Jesus_ ✨ and I am a graduate student in Computer Science. I'm Brazilian, I live in Três Corações and currently work at UninCor as a technology assistant. Currently, I program for web technologies like Django, JavaScript. But recently I'm studying mobile devices with React Native
 
-<!-- 
-Here are some ideas to get you started:
+## 👩‍💻 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
+
+
+
+## 👩‍💻 Interest
 
 ## &#x1f4c8; GitHub Stats
-
-
 <a href="https://github.com/GomesMilla/GomesMilla">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GomesMilla&show_icons=true&theme=radical" />
 </a>
