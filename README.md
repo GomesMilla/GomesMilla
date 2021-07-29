@@ -27,12 +27,11 @@ My name is ✨ _Camila Adriana Gomes de Jesus_ ✨ and I am a graduate student i
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://pt-br.reactjs.org/)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/GomesMilla/GomesMilla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GomesMilla&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/GomesMilla/GomesMilla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMilla&show_icons=true&theme=radical&layout=compact&langs_count=8&langs_count=5" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GomesMilla&show_icons=true&theme=radical&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesMilla&theme=radical&layout=compact"/>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMilla&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
