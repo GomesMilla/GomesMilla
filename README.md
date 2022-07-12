@@ -67,9 +67,7 @@
 
 ###
 
-<br clear="both">
-
-  ![Snake animation](https://github.com/GomesMilla/GomesMilla/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GomesMilla/GomesMilla/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
