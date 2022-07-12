@@ -67,8 +67,8 @@
 
 ###
 
-![Snake animation](https://github.com/GomesMilla/GomesMilla/blob/output/github-contribution-grid-snake.svg)
 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <h2 align="center">Visitors</h2>
