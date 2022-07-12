@@ -66,7 +66,6 @@
 <h2 align="center">Contributions</h2>
 
 ###
-![Snake animation](https://github.com/GomesMilla/GomesMilla/blob/output/github-contribution-grid-snake.svg)
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
