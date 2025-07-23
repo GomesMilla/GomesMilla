@@ -1,9 +1,20 @@
-<h1 align="left">Hi there 👋</h1>
+<h1 align="left">👋 Hi, I'm Camila Adriana Gomes</h1>
 
-## 🌐 Idiomas / Languages
+---
 
-- [🇧🇷 Português](#-português)
-- [🇺🇸 English](#-english)
+## ⚡ About Me (Resumo Rápido)
+
+- 🎓 Graduada em **Ciência da Computação**
+- 💼 **Desenvolvedora Full Stack** com 4 anos de experiência
+- 🧠 Atuação em **desenvolvimento**, **infraestrutura**, **liderança técnica** e **gestão de projetos**
+- 🚀 Tecnologias: **Django**, **Python**, **Go**, **Bootstrap**, **Docker**, **PostgreSQL**
+
+---
+
+## 🌍 Idiomas / Languages
+
+- 🇧🇷 [Português](#-português)
+- 🇺🇸 [English](#-english)
 
 ---
 
@@ -34,23 +45,27 @@ My background allows me to work strategically across all stages of the software 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="42" alt="go logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="30" width="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="30" width="42" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="30" width="42" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="30" width="42" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" height="30" width="42" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height="30" width="42" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="30" width="42" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="30" width="42" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" height="30" width="42" alt="Docker" />
 </div>
 
 ---
 
-## 📬 Contacts
+## 📫 Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/camilaadrianagomes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:seu.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
+  <a href="https://www.linkedin.com/in/camilaadrianagomes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <!-- Adicione mais redes se quiser, como GitHub, Twitter, Instagram etc. -->
 </div>
